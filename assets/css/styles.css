@@ -139,7 +139,7 @@ body.light-theme {
 }
 
 .light-theme .nav__menu {
-  background-color: hsla(var(--second-hue), 32%, 90%, 0.8);
+  background-color: hsla(var(--first-hue), 32%, 90%, 0.8);
 }
 
 .light-theme .section__subtitle {
@@ -252,7 +252,7 @@ body.light-theme {
 .nav__menu {
   position: fixed;
   bottom: 1rem;
-  background-color: hsla(var(--second-hue), 32%, 16%, 0.8);
+  background-color: hsla(var(--first-hue), 32%, 16%, 0.8);
   width: 90%;
   border-radius: 4rem;
   padding: 1rem 2.25rem;
